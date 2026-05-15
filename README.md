@@ -1,6 +1,15 @@
 # doctoral-thesis
 Assessment of sea surface salinity variability along Nigerian coastal zone using machine learning – 2012-2021
 
+AJIBOLA-JAMES, OPEYEMI
+
+DEPARTMENT OF GEOINFORMATICS & SURVEYING
+FACULTY OF ENVIRONMENTAL STUDIES
+UNIVERSITY OF NIGERIA
+ENUGU CAMPUS
+
+DECEMBER, 2023
+
 Abstract
 
 The risks of upstream seawater intrusion from coastal zones (to drinking water supply, people’s
